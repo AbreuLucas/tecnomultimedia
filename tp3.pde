@@ -8,8 +8,8 @@ int[] cuadriX=new int[4];
 int[] cuadriY=new int[4];
 boolean Mouse, inicio, fin;
 void setup() {
-  size (400, 400);
-  titulo = loadImage ("Piano.jpg");
+  size (400, 400;)
+  titulo = loadImage ("piano.jpg");
   Parte [0] = true;
   Parte [1] = false;
   Parte [2] = true;
